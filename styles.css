@@ -1,0 +1,82 @@
+body{
+    font-family: "Roboto";
+}
+#title{
+    background-color: #f27a34;
+    color: #fff;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.container-fluid{
+    padding: 3% 20%;
+    font-size: 1.8rem;
+}
+h1{
+    font-family: "montez";
+    font-size: 3.8rem;
+    line-height: 1.6;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "montez";
+}
+
+.Education{
+    text-align: right;
+    font-family: "montez-dark";
+    font-weight: 10%;
+    padding-left: 5%;
+
+}
+h3{
+    font-family: "montez";
+    padding-left: 20%;
+    color: rgb(13, 135, 135);
+
+}
+h4{
+    font-family: "montez";
+    padding-left: 20%;
+    color: rgb(13, 135, 135);
+}
+.image{
+    padding: 0 10%;
+}
+.strenght{
+    padding: 0 5%;
+}
+.hobbies{
+    padding: 0 3%;
+}
+.work-experience{
+    padding: 0 10%;
+}
+.profile{
+    text-align:center;
+    font-size: 1.8rem;
+    font-weight: 3%;
+    font-family: "montez-dark";
+
+}
+.item{
+    font-size: 2.2rem;
+    color: rgb(221, 27, 6);
+}
+.contact-me{
+    text-align: center;
+    color: rgb(220, 69, 125);
+    background-color: rgb(129, 140, 225);
+font-size: 1.5rem;
+
+}
+.bottom{
+    text-align: center;
+    color: rgb(242, 63, 129);
+    font-family: "montez";
+    background-color: rgb(129, 140, 225);
+    font-size: 1.5rem;
+}
